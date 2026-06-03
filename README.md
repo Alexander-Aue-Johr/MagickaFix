@@ -1,3 +1,18 @@
+# ⚠️ This Repository Is Archived
+
+The actively developed and up-to-date version of the project has moved to:
+
+**Current repository:** https://github.com/Alexander-Aue-Johr/magicka-patch
+
+For a deeper look into the reverse-engineering work and the reasons behind many of the fixes, see:
+
+* Reddit post: https://www.reddit.com/r/magicka/comments/1tm8xts/after_13_years_i_reverseengineered_magicka_to/
+* Current GitHub repository: https://github.com/Alexander-Aue-Johr/magicka-patch
+
+**Please note that this repository is an old and outdated fork from the time when I was still working on the early versions of the patch. It is no longer maintained.**
+
+# Legacy Notes:
+
 # Magicka Fixes v1.5
 We finally solved a decent amount of OOM problems
 Sorry this took so long to release everybody.
